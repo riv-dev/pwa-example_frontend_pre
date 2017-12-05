@@ -1,0 +1,4 @@
+*.swp*
+*.ai
+.DS_Store
+.sass-cache
